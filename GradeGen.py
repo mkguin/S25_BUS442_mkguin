@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+# Student performance - 02/04/25
 # Form implementation generated from reading ui file 'GradeGen.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.10
